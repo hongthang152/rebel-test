@@ -10,5 +10,5 @@ npm start
 ```
 3) Voilà. Go to [localhost:3000]
 
-##
+## Disclaimer
 It is my first time using redux so please excuse my bad coding practice.
