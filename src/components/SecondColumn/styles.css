@@ -1,0 +1,9 @@
+.button {
+    width: 250px;
+    margin-bottom: 30px;
+    height: 40px;
+}
+
+#download {
+    display: hidden;
+}

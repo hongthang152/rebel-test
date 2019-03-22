@@ -1,0 +1,10 @@
+.output-row {
+    width: 250px;
+    text-align: left;
+    height: 25px;
+    cursor: pointer;
+}
+
+.column3 {
+    margin-right: 50%;
+}
