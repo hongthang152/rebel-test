@@ -8,7 +8,7 @@ cd rebel-test
 npm install
 npm start
 ```
-3) Voilà. Go to [localhost:3000](localhost:3000)
+3) Voilà. Go to [here](localhost:3000)
 
 
 ## Disclaimer
