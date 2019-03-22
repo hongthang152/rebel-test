@@ -8,8 +8,7 @@ cd rebel-test
 npm install
 npm start
 ```
-3) Voilà. Go to [here](localhost:3000)
-
+3) Voilà. Go to [your local]: http://localhost:3000
 
 ## Disclaimer
 It is my first time using redux so please excuse my bad coding practice.
