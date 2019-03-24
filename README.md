@@ -1,6 +1,5 @@
 # Rebel Test Project
-At least I tried. (͡° ͜ʖ ͡°)
-
+![Alt Text](https://media.giphy.com/media/26ybwvTX4DTkwst6U/giphy.gif)
 
 
 ## Getting started
