@@ -4,7 +4,7 @@ At least I tried. (͡° ͜ʖ ͡°)
 
 
 ## Getting started
-Please ensure you have Node installed
+Please ensure you have Node and Git installed
 1) Create an empty project folder
 2) In your shell terminal
 ```
