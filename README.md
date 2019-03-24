@@ -1,5 +1,5 @@
 # Rebel Test Project
-![Alt Text](https://media.giphy.com/media/26ybwvTX4DTkwst6U/giphy.gif)
+![Alt Text](https://tenor.com/view/ricardo-milos-ricardo-milos-gif-13248430)
 
 
 ## Getting started
