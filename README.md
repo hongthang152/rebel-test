@@ -1,14 +1,14 @@
 ## Getting started
 
 1) Create an empty project folder
-2) Type
+2) In your shell terminal
 ```
 git clone https://github.com/hongthang152/rebel-test.git
 cd rebel-test
-npm install
-npm start
+npm install -g serve
+serve -s build
 ```
-3) Voilà. Go to http://localhost:3000
+3) Voilà. Go to http://localhost:5000
 
 ## Disclaimer
 It is my first time using redux so please excuse my bad coding practice.
