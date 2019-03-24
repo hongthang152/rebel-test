@@ -1,5 +1,10 @@
-## Getting started
+# Rebel Test Project
+At least I tried. (͡° ͜ʖ ͡°)
 
+
+
+## Getting started
+Please ensure you have Node installed
 1) Create an empty project folder
 2) In your shell terminal
 ```
